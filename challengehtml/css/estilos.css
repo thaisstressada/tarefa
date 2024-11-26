@@ -1,0 +1,91 @@
+.imgone{
+    width: 300px;
+    height: 250px;
+    border-radius: 50px;
+    display: flex;
+    padding: 20px;
+    border-style: double;
+    background-color: goldenrod;
+    margin: auto;
+    justify-content: center;
+}
+
+.texto{
+    color: goldenrod;
+    text-align: center;
+
+}
+
+h1 {
+    text-align:center;
+}
+
+div{   
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    text-align: center;
+}
+
+.automacao{
+    color:white;
+    text-align: left;
+    line-height: 1.6;
+}
+
+.titulo{
+    color:white;
+    text-align: center;
+}
+
+.imageMa{
+    width: 220px;
+    height: 220px;
+}
+
+.imageLing{
+    width: 310px;
+    height: 290px;
+}
+
+.foto{
+    width: 320px;
+    height: 320px;
+}
+
+.imag{
+    height: 290px;
+    width: 400px;
+}
+
+.imagMa{
+    width: 380px;
+    height: 250px;
+}
+
+.imagem{
+    position: absolute;
+    top: 50px;
+    right: 10px;
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    border: double 4px goldenrod;
+}
+
+.video{
+    align-items: center;
+}
+
+.fundo{
+    background-color: goldenrod;
+    border-radius: 360px;
+    display: flex;
+    padding: 20px;
+    background-color: goldenrod;
+    margin: auto;
+    justify-content: center;
+}
